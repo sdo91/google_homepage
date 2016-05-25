@@ -1,4 +1,4 @@
 # Google Homepage
 
-Part of the Odin Project
+part of The Odin Project
 
